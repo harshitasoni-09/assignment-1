@@ -1,0 +1,34 @@
+2022-12-29 20:52:55,264 DEBUG: com.xilinx.installer.api.e:? - Log file location: C:\Users\harsh\.Xilinx\xinstall\xinstall_1672327370940.log
+2022-12-29 20:52:55,571 DEBUG: com.xilinx.installer.api.e:? - Memory usage -- Used memory: 5954 MB. Total memory: 7991 MB
+Recent cpu usage for system: 0%
+2022-12-29 20:52:55,584 DEBUG: com.xilinx.installer.api.d:? - This is a fresh installation.
+2022-12-29 20:52:55,589 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 20:52:55,958 DEBUG: com.xilinx.installer.api.e:? - PAYLOAD_LOCATION_FROM_USER is not set.
+2022-12-29 20:52:55,959 DEBUG: com.xilinx.installer.api.e:? - Payload was found within the image, C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload exists.
+2022-12-29 20:52:55,960 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.WelcomePanel, refKey: WelcomePanel_Install
+2022-12-29 20:52:55,980 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.eula.EULAsPanel, refKey: EULAPanel_Install
+2022-12-29 20:52:56,022 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.packages.simple.ModulesPanel, refKey: ModulesPanel_Install
+2022-12-29 20:52:56,057 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 20:52:56,058 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 20:52:56,061 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.destination.DestinationPanel, refKey: DestinationPanel_Install
+2022-12-29 20:52:56,080 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.summary.SummaryPanel, refKey: SummaryPanel_Install
+2022-12-29 20:52:56,081 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.progress.ModernProgressPanel, refKey: ProgressPanel_Install
+2022-12-29 20:53:02,642 DEBUG: com.xilinx.installer.api.e:? - Validate that virtualization is enabled in BIOS - C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..\bin\validate_virtualization_enabled.bat
+2022-12-29 20:53:04,185 DEBUG: com.xilinx.installer.api.e:? - Virtualization is enabled
+2022-12-29 20:53:04,185 DEBUG: com.xilinx.installer.gui.panel.WelcomePanel:? - 
+2022-12-29 20:53:04,185 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 20:53:12,274 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 20:53:12,275 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 20:53:14,571 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 20:53:14,572 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 20:53:14,576 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 20:53:14,576 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 20:53:14,577 DEBUG: com.xilinx.installer.api.e:? - ISE_Images_Installer, archive: installer_0003_14.7_VM_0213_1 max dest path length: 58
+2022-12-29 20:53:14,578 DEBUG: p.f:? - Max dest path (including dest dir: 68
+2022-12-29 20:53:14,580 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 20:53:14,580 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 20:53:14,581 DEBUG: com.xilinx.installer.api.e:? - ISE_Images_Installer, archive: installer_0003_14.7_VM_0213_1 max dest path length: 58
+2022-12-29 20:53:14,581 DEBUG: p.f:? - Max dest path (including dest dir: 68
+2022-12-29 20:54:43,175 DEBUG: i.b:? - Read: HELLO

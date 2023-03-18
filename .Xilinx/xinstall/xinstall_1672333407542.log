@@ -1,0 +1,608 @@
+2022-12-29 22:33:36,739 DEBUG: com.xilinx.installer.api.e:? - Log file location: C:\Users\harsh\.Xilinx\xinstall\xinstall_1672333407542.log
+2022-12-29 22:33:37,258 DEBUG: com.xilinx.installer.api.e:? - Memory usage -- Used memory: 6333 MB. Total memory: 7991 MB
+Recent cpu usage for system: 100%
+2022-12-29 22:33:37,299 DEBUG: com.xilinx.installer.api.d:? - This is a fresh installation.
+2022-12-29 22:33:37,306 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:33:37,877 DEBUG: com.xilinx.installer.api.e:? - PAYLOAD_LOCATION_FROM_USER is not set.
+2022-12-29 22:33:37,878 DEBUG: com.xilinx.installer.api.e:? - Payload was found within the image, C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload exists.
+2022-12-29 22:33:37,879 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.WelcomePanel, refKey: WelcomePanel_Install
+2022-12-29 22:33:37,965 DEBUG: com.xilinx.installer.api.e:? - Installer root dir      : C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..
+2022-12-29 22:33:37,965 DEBUG: com.xilinx.installer.api.e:? - Installer root dir (UNC): C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..
+2022-12-29 22:33:37,966 DEBUG: com.xilinx.installer.gui.panel.WelcomePanel:? - Installer image is located on local drive!
+2022-12-29 22:33:37,966 DEBUG: com.xilinx.installer.gui.panel.WelcomePanel:? - Checked out installation license successfully!
+2022-12-29 22:33:37,966 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:33:37,966 DEBUG: com.xilinx.installer.api.e:? - VirtualBox installation not detected on this machine.
+2022-12-29 22:33:37,966 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.eula.EULAsPanel, refKey: EULAPanel_Install
+2022-12-29 22:33:38,009 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.packages.simple.ModulesPanel, refKey: ModulesPanel_Install
+2022-12-29 22:33:38,047 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:33:38,047 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:33:38,050 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.destination.DestinationPanel, refKey: DestinationPanel_Install
+2022-12-29 22:33:38,073 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.summary.SummaryPanel, refKey: SummaryPanel_Install
+2022-12-29 22:33:38,076 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.progress.ModernProgressPanel, refKey: ProgressPanel_Install
+2022-12-29 22:33:46,096 DEBUG: com.xilinx.installer.api.e:? - Validate that virtualization is enabled in BIOS - C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..\bin\validate_virtualization_enabled.bat
+2022-12-29 22:33:48,140 DEBUG: com.xilinx.installer.api.e:? - Virtualization is enabled
+2022-12-29 22:33:48,141 DEBUG: com.xilinx.installer.gui.panel.WelcomePanel:? - 
+2022-12-29 22:33:48,142 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:02,856 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:02,857 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:12,803 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:12,804 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:12,807 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:12,808 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:12,809 DEBUG: com.xilinx.installer.api.e:? - ISE_Images_Installer, archive: installer_0003_14.7_VM_0213_1 max dest path length: 58
+2022-12-29 22:34:12,809 DEBUG: p.f:? - Max dest path (including dest dir: 68
+2022-12-29 22:34:12,811 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:12,811 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:12,812 DEBUG: com.xilinx.installer.api.e:? - ISE_Images_Installer, archive: installer_0003_14.7_VM_0213_1 max dest path length: 58
+2022-12-29 22:34:12,813 DEBUG: p.f:? - Max dest path (including dest dir: 68
+2022-12-29 22:34:45,142 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:45,142 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:45,142 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:45,144 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:47,271 INFO : p.f:? - Installing Edition: ISE 14.7
+2022-12-29 22:34:47,271 INFO : p.f:? - Installation directory is C:\Xilinx
+2022-12-29 22:34:47,272 DEBUG: p.f:? - The default xinstall directory will be set to C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:34:47,345 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:34:47,345 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:34:47,345 DEBUG: p.f:? - Number of archives to extract: 4
+2022-12-29 22:34:47,347 DEBUG: a.i:? - Using 4 cores to extract archives.
+2022-12-29 22:34:47,352 DEBUG: a.i:? - Start to extract archives without symlink files. Totally 4 archives.
+2022-12-29 22:34:47,355 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0004_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:34:47,355 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0002_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM
+2022-12-29 22:34:47,355 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0003_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:34:47,355 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0001_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM
+2022-12-29 22:34:47,588 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0002_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM, in 232 mili-sec
+Memory usage -- Used memory: 6346 MB. Total memory: 7991 MB
+Recent cpu usage for system: 32%
+2022-12-29 22:34:47,589 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 15
+2022-12-29 22:34:47,693 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0001_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM, in 337 mili-sec
+Memory usage -- Used memory: 6367 MB. Total memory: 7991 MB
+Recent cpu usage for system: 32%
+2022-12-29 22:34:47,693 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 19
+2022-12-29 22:34:47,894 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0004_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7, in 539 mili-sec
+Memory usage -- Used memory: 6371 MB. Total memory: 7991 MB
+Recent cpu usage for system: 32%
+2022-12-29 22:34:47,894 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 82
+2022-12-29 22:34:53,524 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0003_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7, in 6167 mili-sec
+Memory usage -- Used memory: 6615 MB. Total memory: 7991 MB
+Recent cpu usage for system: 80%
+2022-12-29 22:34:53,524 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 328
+2022-12-29 22:34:53,525 DEBUG: a.i:? - Start to extract archives with symlink files. Totally 0 archives.
+2022-12-29 22:34:53,525 DEBUG: a.i:? - Extracted all archives in 6 seconds
+2022-12-29 22:34:53,525 DEBUG: a.i:? - Extracted all archives in 0:0:0:6
+2022-12-29 22:34:53,525 DEBUG: a.i:? - During extraction, the average memory usage for system is: 6424 MB. The average cpu usage for system is: 44%
+2022-12-29 22:34:54,674 DEBUG: p.f:? - No xic config file found under C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\data\xic.cfg
+2022-12-29 22:34:54,675 DEBUG: p.p:? - Creating install level shortcuts.
+2022-12-29 22:34:54,675 DEBUG: p.p:? - Creating shortcuts for Module<?>  ISE 14.7 Virtual Machine
+2022-12-29 22:34:54,675 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,676 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,676 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,676 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,676 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,676 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,676 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,677 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,677 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" impact icon file: C:\Xilinx\14.7_VM\data\images\impact.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,677 DEBUG: p.p:? - Creating desktop shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,678 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateDesktopShortcut: targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" impact,
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico,
+	linkName: iMPACT.lnk,
+	description: iMPACT,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,690 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" impact
+	minimized: true
+2022-12-29 22:34:54,691 DEBUG: m.c:? - Desktop shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" impact
+	minimized: true
+2022-12-29 22:34:54,691 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,693 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" analyzer icon file: C:\Xilinx\14.7_VM\data\images\analyzer.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,693 DEBUG: p.p:? - Creating desktop shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,693 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateDesktopShortcut: targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" analyzer,
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico,
+	linkName: Analyzer.lnk,
+	description: Analyzer,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,698 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" analyzer
+	minimized: true
+2022-12-29 22:34:54,698 DEBUG: m.c:? - Desktop shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" analyzer
+	minimized: true
+2022-12-29 22:34:54,698 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,698 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,698 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,698 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,699 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,699 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,699 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,699 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,699 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" ise icon file: C:\Xilinx\14.7_VM\data\images\projnav.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,699 DEBUG: p.p:? - Creating desktop shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,699 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateDesktopShortcut: targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" ise,
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico,
+	linkName: Project Navigator.lnk,
+	description: Project Navigator,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,704 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" ise
+	minimized: true
+2022-12-29 22:34:54,705 DEBUG: m.c:? - Desktop shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" ise
+	minimized: true
+2022-12-29 22:34:54,705 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,705 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,705 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,705 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,706 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,706 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,706 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,706 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,706 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" xsdk icon file: C:\Xilinx\14.7_VM\data\images\sdk.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,706 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,706 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\EDK, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" xsdk,
+	iconFile: C:\Xilinx\14.7_VM\data\images\sdk.ico,
+	linkName: Xilinx Software Development Kit.lnk,
+	description: Xilinx Software Development Kit,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,715 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Software Development Kit.lnk
+	description: Xilinx Software Development Kit
+	iconFile: C:\Xilinx\14.7_VM\data\images\sdk.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" xsdk
+	minimized: true
+2022-12-29 22:34:54,715 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Software Development Kit.lnk
+	description: Xilinx Software Development Kit
+	iconFile: C:\Xilinx\14.7_VM\data\images\sdk.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" xsdk
+	minimized: true
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,716 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" impact icon file: C:\Xilinx\14.7_VM\data\images\impact.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,717 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,717 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\ISE Design Tools, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" impact,
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico,
+	linkName: iMPACT.lnk,
+	description: iMPACT,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,725 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" impact
+	minimized: true
+2022-12-29 22:34:54,726 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" impact
+	minimized: true
+2022-12-29 22:34:54,726 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,726 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,726 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,726 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,726 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,727 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,727 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,727 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,727 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" analyzer icon file: C:\Xilinx\14.7_VM\data\images\analyzer.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,727 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,727 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\Chipscope Pro, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" analyzer,
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico,
+	linkName: Analyzer.lnk,
+	description: Analyzer,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,734 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" analyzer
+	minimized: true
+2022-12-29 22:34:54,734 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" analyzer
+	minimized: true
+2022-12-29 22:34:54,734 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,734 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,735 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" ise icon file: C:\Xilinx\14.7_VM\data\images\projnav.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,736 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,736 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\., targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" ise,
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico,
+	linkName: Project Navigator.lnk,
+	description: Project Navigator,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,743 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" ise
+	minimized: true
+2022-12-29 22:34:54,743 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" ise
+	minimized: true
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,744 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Xilinx\14.7_VM" xps icon file: C:\Xilinx\14.7_VM\data\images\xps.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:34:54,745 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:34:54,745 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\EDK, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Xilinx\14.7_VM" xps,
+	iconFile: C:\Xilinx\14.7_VM\data\images\xps.ico,
+	linkName: Xilinx Platform Studio.lnk,
+	description: Xilinx Platform Studio,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:34:54,751 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Platform Studio.lnk
+	description: Xilinx Platform Studio
+	iconFile: C:\Xilinx\14.7_VM\data\images\xps.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" xps
+	minimized: true
+2022-12-29 22:34:54,752 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Platform Studio.lnk
+	description: Xilinx Platform Studio
+	iconFile: C:\Xilinx\14.7_VM\data\images\xps.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Xilinx\14.7_VM" xps
+	minimized: true
+2022-12-29 22:34:54,752 DEBUG: p.p:? - Creating shortcuts for Module<?>  ISE Design Suite in a Virtual Machine
+2022-12-29 22:34:54,752 INFO : p.f:? - Creating registry entries
+2022-12-29 22:34:54,754 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:54,754 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:55,229 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:55,229 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:55,899 DEBUG: p.p:? - Got, Illegal char <"> at index 0: "C:\Xilinx\14.7_VM\vboxmanage", ignoring
+java.nio.file.InvalidPathException: Illegal char <"> at index 0: "C:\Xilinx\14.7_VM\vboxmanage"
+	at sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at sun.nio.fs.WindowsPath.parse(WindowsPath.java:94)
+	at sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:255)
+	at java.io.File.toPath(File.java:2234)
+	at p.p.a(Unknown Source)
+	at p.p.a(Unknown Source)
+	at p.f.a(Unknown Source)
+	at p.f.c(Unknown Source)
+	at p.g.run(Unknown Source)
+2022-12-29 22:34:55,901 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:55,901 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:56,243 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:56,243 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:56,603 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:56,603 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:56,922 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:56,922 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:57,222 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:57,223 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:57,504 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:57,504 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:58,116 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:58,117 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:58,414 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:58,414 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:58,710 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:58,711 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,000 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,001 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,288 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,289 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,604 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,605 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:34:59,896 DEBUG: p.p:? - Executing script Import ISE Virtual Appliance: "C:\Xilinx\14.7_VM\vboxmanage" [import, "C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..\ova\14.7_VM.ova", --options, keepallmacs, --vsys, 0, --vmname, ISE_14.7_VIRTUAL_MACHINE, --unit, 14, --disk, C:\Xilinx\14.7_VM\vm\14.7_VM.vmdk]
+2022-12-29 22:35:21,845 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:21,846 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:22,167 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:22,167 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:22,402 DEBUG: p.p:? - Got, Illegal char <"> at index 0: "C:\Xilinx\14.7_VM\vboxmanage", ignoring
+java.nio.file.InvalidPathException: Illegal char <"> at index 0: "C:\Xilinx\14.7_VM\vboxmanage"
+	at sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at sun.nio.fs.WindowsPath.parse(WindowsPath.java:94)
+	at sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:255)
+	at java.io.File.toPath(File.java:2234)
+	at p.p.a(Unknown Source)
+	at p.p.a(Unknown Source)
+	at p.f.a(Unknown Source)
+	at p.f.c(Unknown Source)
+	at p.g.run(Unknown Source)
+2022-12-29 22:35:22,403 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:22,403 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:22,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:22,692 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,035 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,035 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,407 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,408 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,699 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,699 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,967 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:23,967 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:24,254 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:24,254 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:24,543 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:24,544 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:24,830 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:24,830 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:25,132 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:25,132 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:25,423 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:25,423 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:25,720 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:25,720 DEBUG: n.o:? - O: The system cannot find the file specified.
+
+2022-12-29 22:35:26,011 DEBUG: p.p:? - Executing script Import ISE Virtual Appliance: "C:\Xilinx\14.7_VM\vboxmanage" [import, "C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..\ova\14.7_VM.ova", --options, keepallmacs, --vsys, 0, --vmname, ISE_14.7_VIRTUAL_MACHINE, --unit, 14, --disk, C:\Xilinx\14.7_VM\vm\14.7_VM.vmdk]
+2022-12-29 22:35:26,048 DEBUG: p.p:? - Unable to run Import_ISE_VirtualAppliance_WIN64_script, exit code: 1, stdout: , stderr: '"C:\Xilinx\14.7_VM\vboxmanage"' is not recognized as an internal or external command,
+operable program or batch file. failure msg:
+ '"C:\Xilinx\14.7_VM\vboxmanage"' is not recognized as an internal or external command,
+operable program or batch file.
+2022-12-29 22:35:26,049 FATAL: p.p:? - '"C:\Xilinx\14.7_VM\vboxmanage"' is not recognized as an internal or external command,
+operable program or batch file.
+2022-12-29 22:35:26,073 DEBUG: p.p:? - Done saving the installation record for none standalone Module<?>  ISE 14.7 Virtual Machine
+2022-12-29 22:35:26,073 DEBUG: p.p:? - Done saving the installation record for none standalone Module<?>  ISE Design Suite in a Virtual Machine
+2022-12-29 22:35:26,073 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:35:26,073 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:35:26,074 DEBUG: p.p:? - LaunchVlmString is 
+2022-12-29 22:35:26,075 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:DisplayVersion ,FieldValue:14.7
+2022-12-29 22:35:26,076 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :DisplayVersion to: 14.7
+2022-12-29 22:35:26,076 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:UninstallString ,FieldValue:C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe -Uninstall
+2022-12-29 22:35:26,077 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :UninstallString to: C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe -Uninstall
+2022-12-29 22:35:26,077 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:XInstallPath ,FieldValue:C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:35:26,077 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :XInstallPath to: C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:35:26,077 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:URLInfoAbout ,FieldValue:http://www.xilinx.com
+2022-12-29 22:35:26,077 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :URLInfoAbout to: http://www.xilinx.com
+2022-12-29 22:35:26,077 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:LaunchVlmString ,FieldValue:
+2022-12-29 22:35:26,077 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :LaunchVlmString to: 
+2022-12-29 22:35:26,078 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:DisplayIcon ,FieldValue:C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe
+2022-12-29 22:35:26,078 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :DisplayIcon to: C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe
+2022-12-29 22:35:26,078 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:Publisher ,FieldValue:Xilinx Inc.
+2022-12-29 22:35:26,078 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :Publisher to: Xilinx Inc.
+2022-12-29 22:35:26,078 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:BuildVersion ,FieldValue:14.7_VM_0213_1
+2022-12-29 22:35:26,079 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :BuildVersion to: 14.7_VM_0213_1
+2022-12-29 22:35:26,079 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:InstallLocation ,FieldValue:C:\Xilinx
+2022-12-29 22:35:26,079 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :InstallLocation to: C:\Xilinx
+2022-12-29 22:35:26,079 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:ProgramGroupFolder ,FieldValue:Xilinx Design Tools
+2022-12-29 22:35:26,079 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :ProgramGroupFolder to: Xilinx Design Tools
+2022-12-29 22:35:26,079 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:RefKey ,FieldValue:ISE_VM_Edition
+2022-12-29 22:35:26,079 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :RefKey to: ISE_VM_Edition
+2022-12-29 22:35:26,079 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:DisplayName ,FieldValue:Xilinx Design Tools ISE 14.7 14.7 (C:\Xilinx)
+2022-12-29 22:35:26,079 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :DisplayName to: Xilinx Design Tools ISE 14.7 14.7 (C:\Xilinx)
+2022-12-29 22:35:26,080 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#5 ,FieldName:URLUpdateInfo ,FieldValue:http://www.xilinx.com
+2022-12-29 22:35:26,080 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :URLUpdateInfo to: http://www.xilinx.com
+2022-12-29 22:35:26,135 DEBUG: p.p:? - Done saving the installation record in C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:35:26,135 ERROR: p.g:? - Install finalization step failed. Unable to run Import_ISE_VirtualAppliance_WIN64_script, exit code: 1, stdout: , stderr: '"C:\Xilinx\14.7_VM\vboxmanage"' is not recognized as an internal or external command,
+operable program or batch file. failure msg:
+ '"C:\Xilinx\14.7_VM\vboxmanage"' is not recognized as an internal or external command,
+operable program or batch file.
+2022-12-29 22:35:26,135 DEBUG: n.k:? - Immediately flush the log file.

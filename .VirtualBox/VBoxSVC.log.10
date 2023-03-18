@@ -1,0 +1,82 @@
+00:00:00.005271 main     VirtualBox COM Server 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:00.005274 main     Log opened 2023-01-01T08:36:36.605523400Z
+00:00:00.005274 main     Build Type: release
+00:00:00.005280 main     OS Product: Windows 11
+00:00:00.005281 main     OS Release: 10.0.22000
+00:00:00.005282 main     OS Service Pack: 
+00:00:00.081195 main     DMI Product Name: 82H8
+00:00:00.112366 main     DMI Product Version: IdeaPad 3 15ITL6
+00:00:00.112380 main     Firmware type: UEFI
+00:00:00.112746 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.113944 main     Host RAM: 7991MB (7.8GB) total, 1404MB available
+00:00:00.113949 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.113950 main     Process ID: 89956
+00:00:00.113951 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.595133          VirtualBox: object creation starts
+00:00:00.595444          Home directory: 'C:\Users\harsh\.VirtualBox'
+00:00:00.595614          Installed Drivers:
+00:00:00.610177            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.4.4605)
+00:00:00.610772            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.4.4605)
+00:00:00.611285            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.4.4605)
+00:00:00.611748            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.4.4605)
+00:00:00.615691          Loading settings file "C:\Users\harsh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.640379          usbLibGetDevices: Starting USB device enumeration
+00:00:00.868085          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.868154          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.870891          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.870942          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xc123)
+00:00:00.870981          USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x2459)
+00:00:01.043697          HostDnsMonitor: initializing
+00:00:01.082970          HostDnsMonitor: updating information
+00:00:01.083356          HostDnsMonitor: old information
+00:00:01.083358            no server entries
+00:00:01.083359            no domain set
+00:00:01.083359            no search string entries
+00:00:01.083360          HostDnsMonitor: new information
+00:00:01.083360            server 1: 192.168.1.1
+00:00:01.083361            domain: home
+00:00:01.083362            no search string entries
+00:00:01.211690          VD: VDInit finished with VINF_SUCCESS
+00:00:01.233926          Loading settings file "C:\Users\harsh\VirtualBox VMs\ISE_14.7_VIRTUAL_MACHINE\ISE_14.7_VIRTUAL_MACHINE.vbox" with version "1.19-windows"
+00:00:01.248436          VirtualBox: object created
+00:00:02.072491          Launched VM: 2718874128 pid: 84516 (0x14a24) frontend: GUI/Qt name: ISE_14.7_VIRTUAL_MACHINE
+00:00:22.153005          ERROR [COM]: aRC=VBOX_E_VM_ERROR (0x80bb0003) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Failed to assign the machine to the remote session (RPC_S_CALL_FAILED/0x800706be)}, preserve=false aResultDetail=0
+00:00:25.139409          Deleting file 'C:\Users\harsh\VirtualBox VMs\ISE_14.7_VIRTUAL_MACHINE\Logs\VBoxHardening.log' failed: VERR_SHARING_VIOLATION
+00:00:25.139636          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Error deleting hardening log file 'C:\Users\harsh\VirtualBox VMs\ISE_14.7_VIRTUAL_MACHINE\Logs\VBoxHardening.log' (VERR_SHARING_VIOLATION)}, preserve=false aResultDetail=-114
+00:00:25.144408          Launched VM: 2683508448 pid: 64256 (0xfb00) frontend: GUI/Qt name: ISE_14.7_VIRTUAL_MACHINE
+00:00:34.959624          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:44.157537          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Restoring)}, preserve=false aResultDetail=0
+00:00:44.690291          NetworkServiceRunning: started 'VBoxNetDHCP.exe', pid 0001492c
+00:00:47.594501          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:47.596277          Added USB filter (ID=1, type=4) for device 03FD:FFFFFFFF rev FFFFFFFF, c/s/p FFFFFFFF/FFFFFFFF/FFFFFFFF, Manufacturer=`<null>' Product=`<null>' Serial=`<null>'
+00:00:47.596312          Added USB filter (ID=2, type=4) for device 0403:FFFFFFFF rev FFFFFFFF, c/s/p FFFFFFFF/FFFFFFFF/FFFFFFFF, Manufacturer=`<null>' Product=`<null>' Serial=`<null>'
+00:00:47.596328          Added USB filter (ID=3, type=4) for device 1443:FFFFFFFF rev FFFFFFFF, c/s/p FFFFFFFF/FFFFFFFF/FFFFFFFF, Manufacturer=`<null>' Product=`<null>' Serial=`<null>'
+00:00:57.755437          Saving settings file "C:\Users\harsh\VirtualBox VMs\ISE_14.7_VIRTUAL_MACHINE\ISE_14.7_VIRTUAL_MACHINE.vbox" with version "1.19-windows"
+00:00:57.762979          Finished saving settings file "C:\Users\harsh\VirtualBox VMs\ISE_14.7_VIRTUAL_MACHINE\ISE_14.7_VIRTUAL_MACHINE.vbox"
+00:04:06.058346 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:04:06.092903 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:04:06.093071 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:04:06.095517 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:21:32.202624 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:21:33.057402 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:21:33.057513 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:21:33.071699 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:25:08.872449 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:25:08.904203 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:25:08.904430 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:25:08.905047 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+09:51:04.796122 dns-monitor HostDnsMonitor: updating information
+09:51:05.081010 dns-monitor HostDnsMonitor: unchanged
+09:51:06.596727 USBPROXY usbLibGetDevices: Starting USB device enumeration
+09:51:06.828329 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+09:51:06.828978 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+09:51:06.935703 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+09:51:07.201147 dns-monitor HostDnsMonitor: updating information
+09:51:07.201177 dns-monitor HostDnsMonitor: unchanged
+09:52:51.659294 USBPROXY usbLibGetDevices: Starting USB device enumeration
+09:52:51.685882 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+09:52:51.685997 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3881863d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+09:52:51.686360 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+10:06:50.779718 main     WM_QUERYENDSESSION: critical (0x40000000)
+10:06:50.780347 main     VBoxSvc has active connections: bActivity = false, lock count = 2
+10:06:50.818233 main     WM_ENDSESSION: critical (TRUE/0x40000000)

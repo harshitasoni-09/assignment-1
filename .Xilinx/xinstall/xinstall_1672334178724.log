@@ -1,0 +1,335 @@
+2022-12-29 22:46:23,610 DEBUG: com.xilinx.installer.api.e:? - Log file location: C:\Users\harsh\.Xilinx\xinstall\xinstall_1672334178724.log
+2022-12-29 22:46:23,983 DEBUG: com.xilinx.installer.api.e:? - Memory usage -- Used memory: 6967 MB. Total memory: 7991 MB
+Recent cpu usage for system: 0%
+2022-12-29 22:46:24,011 DEBUG: com.xilinx.installer.api.d:? - This is a fresh installation.
+2022-12-29 22:46:24,020 DEBUG: com.xilinx.installer.api.d:? - Failed to update the visibility of VirtualBox.
+2022-12-29 22:46:24,602 DEBUG: com.xilinx.installer.api.e:? - PAYLOAD_LOCATION_FROM_USER is not set.
+2022-12-29 22:46:24,603 DEBUG: com.xilinx.installer.api.e:? - Payload was found within the image, C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload exists.
+2022-12-29 22:46:24,604 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.WelcomePanel, refKey: WelcomePanel_Install
+2022-12-29 22:46:24,633 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.eula.EULAsPanel, refKey: EULAPanel_Install
+2022-12-29 22:46:24,695 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.packages.simple.ModulesPanel, refKey: ModulesPanel_Install
+2022-12-29 22:46:24,744 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:46:24,745 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:46:24,749 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.destination.DestinationPanel, refKey: DestinationPanel_Install
+2022-12-29 22:46:24,767 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.summary.SummaryPanel, refKey: SummaryPanel_Install
+2022-12-29 22:46:24,769 DEBUG: com.xilinx.installer.gui.j:? - Class to load: com.xilinx.installer.gui.panel.progress.ModernProgressPanel, refKey: ProgressPanel_Install
+2022-12-29 22:46:29,327 DEBUG: com.xilinx.installer.api.e:? - Validate that virtualization is enabled in BIOS - C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..\bin\validate_virtualization_enabled.bat
+2022-12-29 22:46:31,761 DEBUG: com.xilinx.installer.api.e:? - Virtualization is enabled
+2022-12-29 22:46:31,765 DEBUG: com.xilinx.installer.gui.panel.WelcomePanel:? - 
+2022-12-29 22:46:43,792 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:46:43,793 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:46:48,023 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:46:48,024 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:46:48,028 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:46:48,029 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:46:48,030 DEBUG: com.xilinx.installer.api.e:? - ISE_Images_Installer, archive: installer_0003_14.7_VM_0213_1 max dest path length: 58
+2022-12-29 22:46:48,031 DEBUG: p.f:? - Max dest path (including dest dir: 68
+2022-12-29 22:46:48,033 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:46:48,034 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:46:48,035 DEBUG: com.xilinx.installer.api.e:? - ISE_Images_Installer, archive: installer_0003_14.7_VM_0213_1 max dest path length: 58
+2022-12-29 22:46:48,036 DEBUG: p.f:? - Max dest path (including dest dir: 68
+2022-12-29 22:47:06,981 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:47:06,982 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:47:06,982 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:47:06,982 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:47:08,523 INFO : p.f:? - Installing Edition: ISE 14.7
+2022-12-29 22:47:08,524 INFO : p.f:? - Installation directory is C:\Xilinx
+2022-12-29 22:47:08,524 DEBUG: p.f:? - The default xinstall directory will be set to C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:47:08,602 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:47:08,602 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:47:08,602 DEBUG: p.f:? - Number of archives to extract: 4
+2022-12-29 22:47:08,604 DEBUG: a.i:? - Using 4 cores to extract archives.
+2022-12-29 22:47:08,609 DEBUG: a.i:? - Start to extract archives without symlink files. Totally 4 archives.
+2022-12-29 22:47:08,612 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0001_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM
+2022-12-29 22:47:08,612 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0002_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM
+2022-12-29 22:47:08,612 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0003_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:47:08,612 DEBUG: a.j:? - Start extraction for file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0004_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:47:08,841 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0002_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM, in 228 mili-sec
+Memory usage -- Used memory: 6653 MB. Total memory: 7991 MB
+Recent cpu usage for system: 46%
+2022-12-29 22:47:08,841 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 15
+2022-12-29 22:47:08,937 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\ip_0001_14.7_VM_0213_1.xz, to: C:\Xilinx\14.7_VM, in 325 mili-sec
+Memory usage -- Used memory: 6672 MB. Total memory: 7991 MB
+Recent cpu usage for system: 46%
+2022-12-29 22:47:08,937 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 19
+2022-12-29 22:47:09,119 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0004_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7, in 507 mili-sec
+Memory usage -- Used memory: 6681 MB. Total memory: 7991 MB
+Recent cpu usage for system: 46%
+2022-12-29 22:47:09,119 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 82
+2022-12-29 22:47:13,030 DEBUG: a.j:? - Extracted file: C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\payload\installer_0003_14.7_VM_0213_1.xz, to: C:\Xilinx\.xinstall\ISE_VM_14.7, in 4418 mili-sec
+Memory usage -- Used memory: 6770 MB. Total memory: 7991 MB
+Recent cpu usage for system: 49%
+2022-12-29 22:47:13,030 DEBUG: a.k:? - number of files to extract:328 number of files extracted: 328
+2022-12-29 22:47:13,031 DEBUG: a.i:? - Start to extract archives with symlink files. Totally 0 archives.
+2022-12-29 22:47:13,031 DEBUG: a.i:? - Extracted all archives in 4 seconds
+2022-12-29 22:47:13,031 DEBUG: a.i:? - Extracted all archives in 0:0:0:4
+2022-12-29 22:47:13,031 DEBUG: a.i:? - During extraction, the average memory usage for system is: 6694 MB. The average cpu usage for system is: 46%
+2022-12-29 22:47:17,437 DEBUG: p.f:? - No xic config file found under C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\..\data\xic.cfg
+2022-12-29 22:47:17,438 DEBUG: p.p:? - Creating install level shortcuts.
+2022-12-29 22:47:17,438 DEBUG: p.p:? - Creating shortcuts for Module<?>  ISE 14.7 Virtual Machine
+2022-12-29 22:47:17,439 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" impact icon file: C:\Xilinx\14.7_VM\data\images\impact.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,440 DEBUG: p.p:? - Creating desktop shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,440 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateDesktopShortcut: targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" impact,
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico,
+	linkName: iMPACT.lnk,
+	description: iMPACT,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,450 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" impact
+	minimized: true
+2022-12-29 22:47:17,450 DEBUG: m.c:? - Desktop shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" impact
+	minimized: true
+2022-12-29 22:47:17,452 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" analyzer icon file: C:\Xilinx\14.7_VM\data\images\analyzer.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,452 DEBUG: p.p:? - Creating desktop shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,452 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateDesktopShortcut: targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" analyzer,
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico,
+	linkName: Analyzer.lnk,
+	description: Analyzer,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,457 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" analyzer
+	minimized: true
+2022-12-29 22:47:17,457 DEBUG: m.c:? - Desktop shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" analyzer
+	minimized: true
+2022-12-29 22:47:17,458 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" ise icon file: C:\Xilinx\14.7_VM\data\images\projnav.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,458 DEBUG: p.p:? - Creating desktop shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,458 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateDesktopShortcut: targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" ise,
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico,
+	linkName: Project Navigator.lnk,
+	description: Project Navigator,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,461 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" ise
+	minimized: true
+2022-12-29 22:47:17,461 DEBUG: m.c:? - Desktop shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" ise
+	minimized: true
+2022-12-29 22:47:17,462 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" xsdk icon file: C:\Xilinx\14.7_VM\data\images\sdk.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,462 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,462 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\EDK, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" xsdk,
+	iconFile: C:\Xilinx\14.7_VM\data\images\sdk.ico,
+	linkName: Xilinx Software Development Kit.lnk,
+	description: Xilinx Software Development Kit,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,470 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Software Development Kit.lnk
+	description: Xilinx Software Development Kit
+	iconFile: C:\Xilinx\14.7_VM\data\images\sdk.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" xsdk
+	minimized: true
+2022-12-29 22:47:17,470 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Software Development Kit.lnk
+	description: Xilinx Software Development Kit
+	iconFile: C:\Xilinx\14.7_VM\data\images\sdk.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" xsdk
+	minimized: true
+2022-12-29 22:47:17,471 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" impact icon file: C:\Xilinx\14.7_VM\data\images\impact.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,471 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,471 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\ISE Design Tools, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" impact,
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico,
+	linkName: iMPACT.lnk,
+	description: iMPACT,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,476 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" impact
+	minimized: true
+2022-12-29 22:47:17,476 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: iMPACT.lnk
+	description: iMPACT
+	iconFile: C:\Xilinx\14.7_VM\data\images\impact.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" impact
+	minimized: true
+2022-12-29 22:47:17,477 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" analyzer icon file: C:\Xilinx\14.7_VM\data\images\analyzer.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,477 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,477 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\Chipscope Pro, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" analyzer,
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico,
+	linkName: Analyzer.lnk,
+	description: Analyzer,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,489 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" analyzer
+	minimized: true
+2022-12-29 22:47:17,489 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Analyzer.lnk
+	description: Analyzer
+	iconFile: C:\Xilinx\14.7_VM\data\images\analyzer.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" analyzer
+	minimized: true
+2022-12-29 22:47:17,490 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" ise icon file: C:\Xilinx\14.7_VM\data\images\projnav.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,490 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,490 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\., targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" ise,
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico,
+	linkName: Project Navigator.lnk,
+	description: Project Navigator,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,499 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" ise
+	minimized: true
+2022-12-29 22:47:17,499 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Project Navigator.lnk
+	description: Project Navigator
+	iconFile: C:\Xilinx\14.7_VM\data\images\projnav.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" ise
+	minimized: true
+2022-12-29 22:47:17,499 DEBUG: p.p:? - Creating shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat args: "C:\Program Files\Oracle\VirtualBox\" xps icon file: C:\Xilinx\14.7_VM\data\images\xps.ico startIn: %APPDATA%\Xilinx
+2022-12-29 22:47:17,500 DEBUG: p.p:? - Creating program group shortcut: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+2022-12-29 22:47:17,500 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - CreateProgramGroupShortcut:  folderName: Xilinx Design Tools\.\EDK, targetFile: C:\Xilinx\14.7_VM\bin\app_launcher.bat,
+	launchDir: %APPDATA%\Xilinx,
+	args: "C:\Program Files\Oracle\VirtualBox\" xps,
+	iconFile: C:\Xilinx\14.7_VM\data\images\xps.ico,
+	linkName: Xilinx Platform Studio.lnk,
+	description: Xilinx Platform Studio,
+	minimized: true,
+	isForce: true
+	currentuser
+2022-12-29 22:47:17,505 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/WinShortcutHelper.cxx: - Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Platform Studio.lnk
+	description: Xilinx Platform Studio
+	iconFile: C:\Xilinx\14.7_VM\data\images\xps.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" xps
+	minimized: true
+2022-12-29 22:47:17,506 DEBUG: m.c:? - Program group shortcut creation status: OK_E, msg: Created shortcut
+	execPath: C:\Xilinx\14.7_VM\bin\app_launcher.bat
+	linkName: Xilinx Platform Studio.lnk
+	description: Xilinx Platform Studio
+	iconFile: C:\Xilinx\14.7_VM\data\images\xps.ico
+	launchDir: %APPDATA%\Xilinx
+	args: "C:\Program Files\Oracle\VirtualBox\" xps
+	minimized: true
+2022-12-29 22:47:17,506 DEBUG: p.p:? - Creating shortcuts for Module<?>  ISE Design Suite in a Virtual Machine
+2022-12-29 22:47:17,506 INFO : p.f:? - Creating registry entries
+2022-12-29 22:47:18,066 DEBUG: p.p:? - Got, Illegal char <"> at index 0: "C:\Program Files\Oracle\VirtualBox\vboxmanage", ignoring
+java.nio.file.InvalidPathException: Illegal char <"> at index 0: "C:\Program Files\Oracle\VirtualBox\vboxmanage"
+	at sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at sun.nio.fs.WindowsPath.parse(WindowsPath.java:94)
+	at sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:255)
+	at java.io.File.toPath(File.java:2234)
+	at p.p.a(Unknown Source)
+	at p.p.a(Unknown Source)
+	at p.f.a(Unknown Source)
+	at p.f.c(Unknown Source)
+	at p.g.run(Unknown Source)
+2022-12-29 22:47:22,038 DEBUG: p.p:? - Executing script Import ISE Virtual Appliance: "C:\Program Files\Oracle\VirtualBox\\vboxmanage" [import, "C:\Users\harsh\Downloads\Xilinx_ISE_14.7_Win10_14.7_VM_0213_1\bin\\..\ova\14.7_VM.ova", --options, keepallmacs, --vsys, 0, --vmname, ISE_14.7_VIRTUAL_MACHINE, --unit, 14, --disk, C:\Xilinx\14.7_VM\vm\14.7_VM.vmdk]
+2022-12-29 22:56:27,086 DEBUG: p.p:? - Executing script Configure Appliance Default Shared Folder: C:\Xilinx\14.7_VM\bin\configure_folder.bat [Downloads, C:\Users\harsh\Downloads, "C:\Program Files\Oracle\VirtualBox\"]
+2022-12-29 22:56:27,336 DEBUG: p.p:? - Done saving the installation record for none standalone Module<?>  ISE 14.7 Virtual Machine
+2022-12-29 22:56:27,336 DEBUG: p.p:? - Done saving the installation record for none standalone Module<?>  ISE Design Suite in a Virtual Machine
+2022-12-29 22:56:27,336 DEBUG: p.f:? - Module: ISE 14.7 Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 1
+2022-12-29 22:56:27,336 DEBUG: p.f:? - Module: ISE Design Suite in a Virtual Machine dest: C:\Xilinx\14.7_VM Archive numbers in module: 1 Total archive numbers: 2
+2022-12-29 22:56:27,336 DEBUG: p.p:? - LaunchVlmString is 
+2022-12-29 22:56:27,338 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:BuildVersion ,FieldValue:14.7_VM_0213_1
+2022-12-29 22:56:27,339 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :BuildVersion to: 14.7_VM_0213_1
+2022-12-29 22:56:27,339 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:DisplayVersion ,FieldValue:14.7
+2022-12-29 22:56:27,339 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :DisplayVersion to: 14.7
+2022-12-29 22:56:27,339 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:XInstallPath ,FieldValue:C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:56:27,340 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :XInstallPath to: C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:56:27,340 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:Publisher ,FieldValue:Xilinx Inc.
+2022-12-29 22:56:27,340 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :Publisher to: Xilinx Inc.
+2022-12-29 22:56:27,340 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:URLUpdateInfo ,FieldValue:http://www.xilinx.com
+2022-12-29 22:56:27,340 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :URLUpdateInfo to: http://www.xilinx.com
+2022-12-29 22:56:27,340 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:RefKey ,FieldValue:ISE_VM_Edition
+2022-12-29 22:56:27,340 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :RefKey to: ISE_VM_Edition
+2022-12-29 22:56:27,340 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:DisplayName ,FieldValue:Xilinx Design Tools ISE 14.7 14.7 (C:\Xilinx)
+2022-12-29 22:56:27,340 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :DisplayName to: Xilinx Design Tools ISE 14.7 14.7 (C:\Xilinx)
+2022-12-29 22:56:27,340 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:URLInfoAbout ,FieldValue:http://www.xilinx.com
+2022-12-29 22:56:27,341 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :URLInfoAbout to: http://www.xilinx.com
+2022-12-29 22:56:27,341 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:ProgramGroupFolder ,FieldValue:Xilinx Design Tools
+2022-12-29 22:56:27,341 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :ProgramGroupFolder to: Xilinx Design Tools
+2022-12-29 22:56:27,341 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:DisplayIcon ,FieldValue:C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe
+2022-12-29 22:56:27,341 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :DisplayIcon to: C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe
+2022-12-29 22:56:27,341 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:InstallLocation ,FieldValue:C:\Xilinx
+2022-12-29 22:56:27,341 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :InstallLocation to: C:\Xilinx
+2022-12-29 22:56:27,344 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:LaunchVlmString ,FieldValue:
+2022-12-29 22:56:27,345 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :LaunchVlmString to: 
+2022-12-29 22:56:27,345 DEBUG: l.e:? - Adding - HKEY:HKEY_LOCAL_MACHINE ,Path:SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Xilinx_ISE 14.7_14.7#8 ,FieldName:UninstallString ,FieldValue:C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe -Uninstall
+2022-12-29 22:56:27,345 DEBUG: n.o:? - r:/scratch/builds/14.7_VM/continuous/2020_02_13_2779366/src/products/installer/cxx-src/common/RegistryManager.cxx: - set :UninstallString to: C:\Xilinx\.xinstall\ISE_VM_14.7\xsetup.exe -Uninstall
+2022-12-29 22:56:27,404 DEBUG: p.p:? - Done saving the installation record in C:\Xilinx\.xinstall\ISE_VM_14.7
+2022-12-29 22:56:27,405 DEBUG: n.k:? - Immediately flush the log file.

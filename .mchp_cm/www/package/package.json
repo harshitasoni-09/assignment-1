@@ -1,0 +1,98 @@
+{
+  "name": "@microchip/content-manager-ui",
+  "version": "3.5.0",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "scripts": {
+    "start": "react-scripts start",
+    "start-server": "cd java && java -cp target/content-manager-ui-0.0.0-develop.jar com.microchip.mcc.contentmanager.server.ServerMain",
+    "start-all": "run-p start-server start",
+    "build": "tsc && react-scripts build",
+    "build-server": "cd java && mvn clean install -DJAVA-ONLY=true",
+    "build-all": "yarn build && yarn build-server",
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "test": "react-scripts test --passWithNoTests",
+    "test-coverage": "react-scripts test --watchAll=false --coverage",
+    "lint": "yarn lint:nofix --quiet --fix",
+    "lint:nofix": "eslint \"./src/**/*.{js,ts,tsx}\"",
+    "createNpmProject": "node ./config/doCreateNpmProject.js",
+    "start-cli": "cd java && java -jar target/content-manager-ui-0.0.0-develop.jar"
+  },
+  "homepage": ".",
+  "files": [
+    "build/"
+  ],
+  "dependencies": {
+    "@mchp-mcc/scf-catalog": "^1.9.0",
+    "@reduxjs/toolkit": "^1.8.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.2.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^17.0.42",
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5",
+    "autoprefixer": "10.4.5",
+    "bootstrap": "^5.0.1",
+    "lodash.isequal": "^4.5.0",
+    "primeicons": "^5.0.0",
+    "primereact": "^8.3.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.0.2",
+    "react-bootstrap-icons": "^1.5.0",
+    "react-dom": "^18.2.0",
+    "react-json-tree": "^0.17.0",
+    "react-markdown": "^6.0.3",
+    "react-redux": "^8.0.2",
+    "react-scripts": "5.0.1",
+    "react-step-wizard": "^5.3.6",
+    "redux": "^4.0.5",
+    "semver": "^7.3.4",
+    "typescript": "^4.7.3",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@microchip/scf-common": "^3.7.1",
+    "@types/fs-extra": "^9.0.13",
+    "@types/lodash.isequal": "^4.5.5",
+    "@types/semver": "^7.3.4",
+    "cross-env": "^7.0.3",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "fast-xml-parser": "^4.0.7",
+    "fs-extra": "^10.0.0",
+    "husky": "^4.3.5",
+    "lint-staged": "^10.5.3",
+    "prettier": "^2.5.1",
+    "react-transition-group": "^4.4.1",
+    "redux-devtools-extension": "^2.13.8",
+    "sass": "^1.52.3",
+    "source-map-explorer": "^2.5.2",
+    "yarn-run-all": "^3.1.1"
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx}": [
+      "eslint --fix",
+      "prettier --write src/"
+    ]
+  }
+}

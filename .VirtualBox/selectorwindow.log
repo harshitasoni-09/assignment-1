@@ -1,0 +1,30 @@
+00:00:00.641676 VirtualBox GUI VM Selector Window 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:00.641677 Log opened 2022-12-29T17:15:54.501931100Z
+00:00:00.641678 Build Type: release
+00:00:00.641680 OS Product: Windows 11
+00:00:00.641681 OS Release: 10.0.22000
+00:00:00.641682 OS Service Pack: 
+00:00:00.654256 DMI Product Name: 82H8
+00:00:00.657371 DMI Product Version: IdeaPad 3 15ITL6
+00:00:00.657398 Firmware type: UEFI
+00:00:00.658859 Secure Boot: Enabled
+00:00:00.658900 Host RAM: 7991MB (7.8GB) total, 1326MB available
+00:00:00.658951 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.658952 Process ID: 71800
+00:00:00.658952 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.659142 Qt version: 5.15.2
+00:00:00.660012 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.672064 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.672132 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:32.278255 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:10:32.296304 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:33.341041 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:33.387178 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:33.436302 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:17.941701 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:22.217700 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:27.085121 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:44.372765 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:44.818048 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:59.571091 GUI: UICommon: Handling aboutToQuit request..
+00:16:00.558981 GUI: UICommon: aboutToQuit request handled!
